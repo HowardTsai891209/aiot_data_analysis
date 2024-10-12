@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
+
 # Function to generate data
 def generate_data(a, b, c, variance, N):
     x = np.linspace(-10, 10, N)
