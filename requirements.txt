@@ -1,5 +1,5 @@
-#python -m venv your_virtual_env_name
-#your_virtual_env_name\Scripts\activate
+#python -m venv tensorflow_gpu_env
+#tensorflow_gpu_env\Scripts\activate
 #pip install -r requirements.txt
 
 
